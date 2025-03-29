@@ -24,6 +24,6 @@ Project developed in the third semester of the technical course, focused on **im
 
 Developed by **Evelin Visoto** - 2024
 
-📌 **GitHub Repository:** [Click here](https://github.com/EvelinVisoto/Image-Processing/tree/main)
+📌 **GitHub Repository:** [Image-Processing](https://github.com/EvelinVisoto/Image-Processing/tree/main)
 
 _Project developed as an activity in the third semester of the Technical Computer Science course at **Colégio Técnico Univap**._
