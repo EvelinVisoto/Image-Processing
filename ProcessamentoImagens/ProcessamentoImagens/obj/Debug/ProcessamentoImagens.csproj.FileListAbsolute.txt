@@ -1,0 +1,10 @@
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.AssemblyReference.cache
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Form1.resources
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.cache
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\inais\source\repos\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
