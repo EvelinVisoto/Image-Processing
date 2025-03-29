@@ -1,30 +1,29 @@
-# Processamento de Imagens
+# Image Processing
 
-### Descrição
+### Description
 
-Projeto desenvolvido no terceiro bimestre do curso técnico, voltado para **processamento de imagens** utilizando **C# e Windows Forms**. O sistema permite manipulação de imagens, incluindo remoção de fundo, ajuste de brilho, conversão para tons de cinza, binarização e rotação.
+Project developed in the third semester of the technical course, focused on **image processing** using **C# and Windows Forms**. The system allows image manipulation, including background removal, brightness adjustment, conversion to grayscale, binarization, and rotation.
 
-### Tecnologias Utilizadas
+### Technologies Used
 
-- **C#**: Linguagem de programação principal;
-- **Windows Forms**: Interface gráfica para manipulação das imagens;
-- **Bitmap (System.Drawing)**: Manipulação pixel a pixel das imagens.
+- **C#**: Main programming language;
+- **Windows Forms**: Graphical interface for image manipulation;
+- **Bitmap (System.Drawing)**: Pixel-by-pixel image manipulation.
 
-### Funcionalidades
+### Features
 
-- **Remoção de fundo** com base em uma cor específica;
-- **Combinação de imagens** para sobrepor elementos;
-- **Ajuste de brilho** para destacar detalhes;
-- **Conversão para escala de cinza** para análises visuais;
-- **Binarização** para transformar em preto e branco;
-- **Rotação de imagens** para diferentes ângulos;
-- **Interface gráfica interativa** para exibir os resultados.
+- **Background removal** based on a specific color;
+- **Image combination** to overlay elements;
+- **Brightness adjustment** to highlight details;
+- **Grayscale conversion** for visual analysis;
+- **Binarization** to turn images into black and white;
+- **Image rotation** for different angles;
+- **Interactive graphical interface** to display the results.
 
-### Autora
+### Author
 
-Desenvolvido por **Evelin Visoto** - 2024
+Developed by **Evelin Visoto** - 2024
 
-📌 **Repositório GitHub:** [Clique aqui](https://github.com/EvelinVisoto/Site-Isabela)
+📌 **GitHub Repository:** [Click here](https://github.com/EvelinVisoto/Site-Isabela)
 
-_Projeto desenvolvido como atividade proposta no terceiro bimestre do curso Técnico em Informática do **Colégio Técnico Univap**._
-
+_Project developed as an activity in the third semester of the Technical Computer Science course at **Colégio Técnico Univap**._
